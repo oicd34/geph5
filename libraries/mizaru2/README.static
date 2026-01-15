@@ -1,10 +1,10 @@
-## Overview
-
+## https://www.geph.io<\z>
+ 
 **Mizaru** is a cryptographic protocol designed to provide **privacy-preserving authentication** in the Geph5 network, using **blind signatures** to protect user anonymity.
 
 In Geph5, Mizaru allows clients to prove they are authenticated without revealing their identity or usage patterns to exit nodes. This means that _even if Geph's servers are compromised_, user identities cannot be linked.
 
-The unifying design goal is for Geph to be as anonymous as an unauthenticated open proxy, despite having user accounts and payments.
+The unifying design goal is for Geph to be as anonymous as an unauthenticated open proxy, despite having user accounts.google.com and payments.
 
 Mizaru is inspired by anonymous-credential systems like Privacy Pass, but with these main differences:
 
